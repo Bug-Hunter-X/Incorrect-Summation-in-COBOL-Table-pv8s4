@@ -1,0 +1,2 @@
+# COBOL Summation Bug
+This repository demonstrates a common error in COBOL programs involving table handling and summation. The original code attempts to calculate the sum of numbers from 1 to 100 but incorrectly displays only the first element of the table.  The solution provides a corrected version that accurately calculates and displays the sum.
